@@ -27,7 +27,7 @@ p {
 }
 
 .card {
-  max-width: 320px;
+  max-width: 20rem;
   padding: 1rem 1rem 2.6rem;
   border-radius: 1rem;
   background-color: var(--white);
@@ -53,6 +53,7 @@ p {
   text-align: center;
 }
 
+/* 
 #attribution {
   margin-top: 2rem;
   font-size: 0.8rem;
@@ -63,7 +64,7 @@ p {
 
 #attribution a {
   text-decoration: underline;
-}
+} */
 
 *:focus-visible {
   outline: dotted var(--gray-800) 2px;
