@@ -4,14 +4,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor].
 
 ## Table of contents
 
-- [Links]
-- [Built with]
-- [Author]
+- [Links](#links)
+- [Built with](#built-with)
+- [Author](#author)
 
 ## Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: coming soon...
+- Live Site URL: coming soon...
 
 ## Built with
 
@@ -19,5 +19,5 @@ Static HTML & CSS on Codesandbox
 
 ## Author
 
-- Frontend Mentor - []
+- Frontend Mentor - [Josh](https://www.frontendmentor.io/profile/burrijw)
 
