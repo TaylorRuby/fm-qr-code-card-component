@@ -1,1 +1,5 @@
 node_modules
+.codesandbox
+yarn.lock
+style-guide.md
+sandbox.config.json

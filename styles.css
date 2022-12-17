@@ -54,9 +54,8 @@ p {
 }
 
 #attribution {
+  margin-top: 2rem;
   font-size: 0.8rem;
-  position: absolute;
-  bottom: 1.5rem;
   text-align: center;
   width: 100%;
   color: var(--gray-800);
