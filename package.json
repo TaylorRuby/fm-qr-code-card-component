@@ -1,5 +1,6 @@
 {
   "name": "fem-qr-code-component",
+  "private": true,
   "version": "1.0.0",
   "description": "A QR code component from Frontend Mentor",
   "main": "index.html",
